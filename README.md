@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @raushanshah01
+- 👀 I’m interested in OOP Programming 
+- 🌱 I’m currently learning in a four year degree program majoring in technology B.Tech 
+- 💞️ I’m looking to collaborate on projects which can probably help me shape my career and teach me something. Web development projects to be precise
+- 📫 Reach out to me on instagram @raushanshah_07
